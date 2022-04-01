@@ -1,8 +1,8 @@
 ![alt text](src/assets/screen1.png)
 ![alt text](src/assets/screen2.png)
 
-
-
+# This is a portfolio template that will suit any of you. I made it for Keira Knightley. Let her be a programmer for github. She deserved it.
+---
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
